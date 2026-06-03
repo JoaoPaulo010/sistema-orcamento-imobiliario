@@ -23,7 +23,12 @@ Projeto desenvolvido em Python para simular o orçamento de locação de imóvei
 ## Fluxograma
 
 O projeto foi planejado através de um fluxograma antes da implementação.
+## Fluxograma
 
-## Autor
+### Parte 1
 
-João Paulo de Andrade
+![Fluxograma 1](fluxograma_pt1.png)
+
+### Parte 2
+
+![Fluxograma 2](fluxograma_pt2.png)
